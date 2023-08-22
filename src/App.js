@@ -6,9 +6,9 @@ import './App.css';
 function App() {
   return (
     <BrowserRouter>
-      <div className='App'>
+      <div className="App">
         <Routes>
-          <Route path='/' element= {<Greeting />} />
+          <Route path="/" element={<Greeting />} />
         </Routes>
       </div>
     </BrowserRouter>
