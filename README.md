@@ -34,7 +34,7 @@
 # 📖 hello-react-front-end<a name="about-project"></a>
 
 The **hello-react-front-end** is a React front-end application that connects with the [hello-react-back-end
-](https://github.com/oovillagran/hello-react-back-end) application, allowing users to get a list of random greeting messages.
+](https://github.com/oovillagran/hello-rails-back-end) application, allowing users to get a list of random greeting messages.
 
 ## 🛠 Built With <a name="built-with"></a>
 
